@@ -1,0 +1,5 @@
+1. function to generate public and private keys 
+2. function to generate a SHA256 hash taking a PDF as an input -----
+3. sign the hash generated, outputs another hash. ----
+4. verify that the hash outputed from step 3 has been in fact signed by the pvt key corresponding to the public key given. -----
+
